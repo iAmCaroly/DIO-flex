@@ -1,2 +1,3 @@
-# DIO-flex
-CSS Project | Flex
+# CSS Flexbox
+
+Building a responsive website layout with flexbox.
